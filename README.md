@@ -4,7 +4,7 @@
 
 The code of MIEGAN is implemented based on the "[DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks](https://github.com/aiff22/DPED#dslr-quality-photos-on-mobile-devices-with-deep-convolutional-networks)". Therefore, you  need to download its code and then replace the network of MIEGAN.
 
-#### 2. The contributions of MIEGAN is：
+#### 2. The contributions of MIEGAN are：
 
 - **The Multi-Module Cascade Generative Network**
 
